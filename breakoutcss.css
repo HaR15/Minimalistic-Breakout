@@ -1,0 +1,40 @@
+body {
+	background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+}
+
+p{
+    width: 10%;
+    height: 10%;
+    margin: 10px auto 10px auto;
+}
+
+#myCanvas {
+	background-color: black;
+	border: solid white;
+	border-width: thick;
+	margin: 0em auto 0em auto;
+	display: block;
+	background-image: url("background.jpg");
+	background-size: cover;
+}
+header,
+#footer {
+	background-color: black;
+	border: solid blue;
+	font-weight: 800;
+    font-family: Futura; 
+	border-width: thick;
+	text-align: center;
+	font-size: 20px;
+	color: white;
+	width: auto;
+    margin: 20px auto 10px auto;
+
+}
+
+#footer{
+    margin: 20px auto 10px auto;
+}
